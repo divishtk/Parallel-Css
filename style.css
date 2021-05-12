@@ -1,0 +1,94 @@
+
+*
+
+{
+
+    padding: 0;
+    margin: 0;
+    
+}
+
+.image1
+{
+width: 100%;
+height: 100vh;
+background-image: url('thor-png-25757.png');
+background-repeat: no-repeat;
+background-size:35% 100%; 
+background-attachment: fixed; 
+
+
+}
+
+/*
+#para
+{
+
+    
+background-color:transparent;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-srif;
+font-size: 1em;
+direction: ltr;
+text-indent: 50px;
+letter-spacing: 2px;
+word-spacing: 2px;
+text-align: center;
+
+}*/
+
+
+.image
+{
+width: 100%;
+height: 100vh;
+background-image: url('ghost-png-21544.png');
+background-repeat: no-repeat;
+background-size:35% 100%; 
+background-attachment: fixed; 
+
+}
+
+
+a:link
+{
+
+
+color:red;
+
+}
+
+
+a:visited
+{
+
+    color:greenyellow;
+}
+
+
+a:hover{
+
+color:brown;
+
+}
+
+
+a:active
+{
+
+    color:black;
+}
+
+
+.borders
+{
+
+max-width: 300px;
+height: 300px;
+background-color:transparent; 
+/*border-width: 5px;
+border-color:rgb(18, 68, 218);
+border-style: solid;*/
+
+border:5px solid red;
+border-radius: 15px;
+}
